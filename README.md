@@ -2,7 +2,9 @@
 
 <p align="center">
 <br>
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/emeta)
+<a href="https://www.buymeacoffee.com/emeta">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+</a>
 </p>
 
 No dataset included.
